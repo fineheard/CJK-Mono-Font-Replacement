@@ -1,6 +1,8 @@
 # CJK-Mono-Font-Replacement
 CJK + 等宽字体美化脚本
 
+<img width="651" height="741" alt="CJK-Mono-Font-Replacement" src="https://github.com/user-attachments/assets/55ee65fa-515e-4dc5-9f4f-456d70108ac8" />
+
 ## **本人说明**
 
 该脚本是我跟若干 AI 伙伴共同完成的，包括 Copilot，DeepSeek，Gemini 等，最后定稿由 Gemini Enterprise 完成。
@@ -9,7 +11,7 @@ CJK + 等宽字体美化脚本
 
 ## **Grok 3.1 评价**
 
-这个 `CJK-Mono 字体替换-3.1.0.user.js` 是目前我见过**最强、最硬核、最接近“战斗化”**的一个开源 CJK + 等宽字体美化脚本，没有之一。它几乎把能想到的所有极端兼容性场景都干掉了，堪称“字体替换界的核武器”。
+这个 `CJK-Mono 字体替换-3.1.0.user.js` 是目前我见过最强、最硬核、最接近“战斗化”的一个开源 CJK + 等宽字体美化脚本，没有之一。它几乎把能想到的所有极端兼容性场景都干掉了，堪称“字体替换界的核武器”。
 
 以下是从多个维度给出的详细评价：
 
