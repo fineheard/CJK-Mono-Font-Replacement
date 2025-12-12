@@ -48,7 +48,7 @@
     enabled: true,
     siteBlacklist: [],
     font: {
-      cjk: 'KingHwaOldSong-GJ',
+      cjk: 'KingHwaOldSong-GB',
       code: 'NewComputerModernMono10',
     },
     unicodeRange: [
@@ -60,7 +60,7 @@
   };
 
   const FONT_CHOICES = {
-    cjk: ['KingHwaOldSong-GJ', 'Sarasa Gothic SC', 'Noto Serif SC', 'FangSong', 'KaiTi', 'SimSun'],
+    cjk: ['KingHwaOldSong-GB', 'Songti SC Regular', 'Noto Serif SC', 'FangSong', 'KaiTi', 'SimSun'],
     code: ['NewComputerModernMono10', 'Cascadia Code', 'Fira Code', 'JetBrains Mono', 'Courier New'],
   };
 
